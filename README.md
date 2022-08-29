@@ -1,2 +1,2 @@
-# githubTest
-Test git repo for practice purposes
+# State Machine Practice
+Git repo for practice purposes
